@@ -5,8 +5,8 @@
   "main": "app.js",
   "type": "module",
   "engines": {
-      "node": ">=16",
-      "npm": ">=8"
+    "node": ">=16",
+    "npm": ">=8"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -28,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/renato1958/arturo/issues"
   },
-  "homepage": "https://github.com/renato1958/arturo#readme"
+  "homepage": "https://github.com/renato1958/arturo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
 }
