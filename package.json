@@ -1,0 +1,32 @@
+{
+  "name": "arturo",
+  "version": "1.0.0",
+  "description": "Un piccolo semplice server goliardico",
+  "main": "app.js",
+  "type": "module",
+  "engines": {
+      "node": ">=16",
+      "npm": ">=8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renato1958/arturo.git"
+  },
+  "keywords": [
+    "arturo",
+    "mitico",
+    "goliardia",
+    "node.js",
+    "express.js"
+  ],
+  "author": "Renato Felisi 2022",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renato1958/arturo/issues"
+  },
+  "homepage": "https://github.com/renato1958/arturo#readme"
+}
